@@ -1,2 +1,4 @@
 *.Rmd
 *.tex
+*.png
+.Rhistory
